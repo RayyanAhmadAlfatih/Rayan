@@ -1,0 +1,51 @@
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; /* Jarak antar card */
+  }
+  
+  .card-container {
+    margin: 10px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 15px 30px;
+    text-align: center;
+    border-radius: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+    width: 200px; /* Adjust width as needed */
+    background-color: #ff8000; /* Default background color */
+  }
+  
+  .btn:hover {
+    background-color: #ce4414;
+    color: #ffffff;
+  }
+  
+  /* Define specific button colors */
+  .btn-1 { background-color: #ff8000; }
+  .btn-2 { background-color: #ff8000; }
+  .btn-3 { background-color: #ff8000; }
+  .btn-4 { background-color: #ff8000; }
+  .btn-5 { background-color: #ff8000; }
+  .btn-6 { background-color: #ff8000; }
+  .btn-7 { background-color: #ff8000; }
+  .btn-8 { background-color: #ff8000; }
+  .btn-9 { background-color: #ff8000; }
+  .btn-10 { background-color: #ff8000; }
+  .btn-11 { background-color: #ff8000; }
+  .btn-12 { background-color: #ff8000; }
+  .btn-13 { background-color: #ff8000; }
+  .btn-14 { background-color: #ff8000; }
+  .btn-15 { background-color: #ff8000; }
+  .btn-16 { background-color: #ff8000; }
+  .btn-17 { background-color: #ff8000; }
+  .btn-18 { background-color: #ff8000; }
+  .btn-19 { background-color: #ff8000; }
+  
